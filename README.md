@@ -4,6 +4,10 @@
 ---
 ## Information
 Bypass Shell Sederhana Degan Tambahan Fitur Command, Mass Upload, Auto Add Wp Admin
-- ** Command: Untuk Menjalankan Perintah Linux Pada Server
-- Mass Upload: Untuk Mengupload Ke Banyak Direktori Sekaliguns
-- Auto Add Admin WP: Untuk Add Admin Otomatis [jalankan di direktori yang ada file wp-config]
+- **Command: Untuk Menjalankan Perintah Linux Pada Server**
+- **Mass Upload: Untuk Mengupload Ke Banyak Direktori Sekaliguns**
+- **Auto Add Admin WP: Untuk Add Admin Otomatis [jalankan di direktori yang ada file wp-config]**
+- **Ganti Tema: Secara Default File Manger Ini Menggunakan Tema Dark Mode, Klik Gambar Bulan Untuk Mengubah Ke Light Mode**
+---
+## Notes
+Gunakan Hanya Untuk Tujuan Edukasi Saja
